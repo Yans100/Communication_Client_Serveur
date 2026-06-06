@@ -47,7 +47,6 @@ bun dev
 
 ```
 Client/              — frontend SvelteKit (TypeScript, Tailwind, DaisyUI)
-SocketServerCode/    — serveur socket C# (.NET)
   SocketServer/      — logique serveur, services, routage
   SocketerServer.Data/ — DbContext, migrations EF Core
 ServerExecutable/    — binaire compilé du serveur
